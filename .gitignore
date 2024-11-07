@@ -1,5 +1,5 @@
 ## Don't push ximeraserve
-*.ximeraserve*
+#*.ximeraserve*
 ## Graphics - recommend to be ignored
 *.svg
 *.png
